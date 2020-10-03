@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ListOfStrings
+comment1.params=
+comment1.target=ListOfStrings()
+comment2.params=noOfStrings
+comment2.target=ListOfStrings(int)
+comment3.params=newWord
+comment3.target=void\ addWord(java.lang.String)
+comment4.params=
+comment4.target=void\ printStrings()
+comment5.params=
+comment5.target=void\ printStrings2()
+comment6.params=
+comment6.target=void\ printStringsIterator()
+comment7.params=n
+comment7.target=void\ printStrings3(int)
+comment8.params=firstIncl\ lastExcl
+comment8.target=void\ printStrings4(int,\ int)
+comment9.params=word
+comment9.target=boolean\ hasWord(java.lang.String)
+numComments=10
